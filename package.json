@@ -1,0 +1,10 @@
+{
+  "name": "idg",
+  "version": "0.0.1",
+  "main": "idg.ts",
+  "author": "PathDNA",
+  "license": "MIT",
+  "dependencies": {
+//    "errors" : "github:PathDNA/errors.js"
+  }
+}
